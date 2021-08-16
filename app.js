@@ -7,7 +7,7 @@ var serverURL = "https://api.funtranslations.com/translate/doge.json";
 function errorHandler(error) {
   console.log("there is some issue with the API", error);
   alert(
-    "Minions are not available to translate your text right now. Try again later."
+    "Doge is not available to translate your text right now. Try again later."
   );
 }
 
